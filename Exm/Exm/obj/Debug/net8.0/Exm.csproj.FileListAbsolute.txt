@@ -1,0 +1,14 @@
+C:\Users\prdb\source\repos\Exm\Exm\bin\Debug\net8.0\Exm.exe
+C:\Users\prdb\source\repos\Exm\Exm\bin\Debug\net8.0\Exm.deps.json
+C:\Users\prdb\source\repos\Exm\Exm\bin\Debug\net8.0\Exm.runtimeconfig.json
+C:\Users\prdb\source\repos\Exm\Exm\bin\Debug\net8.0\Exm.dll
+C:\Users\prdb\source\repos\Exm\Exm\bin\Debug\net8.0\Exm.pdb
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\Exm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\Exm.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\Exm.AssemblyInfo.cs
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\Exm.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\Exm.dll
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\refint\Exm.dll
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\Exm.pdb
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\Exm.genruntimeconfig.cache
+C:\Users\prdb\source\repos\Exm\Exm\obj\Debug\net8.0\ref\Exm.dll
